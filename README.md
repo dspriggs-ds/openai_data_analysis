@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates how Azure OpenAI, LangChain, and Azure Databricks (with Unity Catalog) can be integrated to facilitate natural language understanding of datasets. By leveraging randomly chosen datasets from [data.gov](https://data.gov), we aim to enable users to explore and comprehend their data intuitively through natural language queries. The goal is to highlight how Azure OpenAI can assist in understanding datasets while also enhancing domain knowledge.
+This project demonstrates how Azure OpenAI, LangChain, and Azure Databricks (with Unity Catalog) can be integrated to facilitate natural language understanding of datasets. By leveraging randomly chosen datasets from [data.gov](https://data.gov), the aim is to enable users to explore and comprehend their data intuitively through natural language queries. The goal is to highlight how Azure OpenAI can assist in understanding datasets while also enhancing domain knowledge.
 
 ## Features
 
